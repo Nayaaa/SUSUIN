@@ -9,4 +9,4 @@ Kelas / Absen : XI RPL 5 / 18
 
 !<alt text>(https://github.com/Nayaaa/SUSUIN/blob/master/menu.PNG)
 
-!<alt text>(hhttps://github.com/Nayaaa/SUSUIN/blob/master/nota.PNG)
+!<alt text>(https://github.com/Nayaaa/SUSUIN/blob/master/nota.PNG)
